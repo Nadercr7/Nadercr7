@@ -6,10 +6,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Nadercr7&theme=swift&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌱 I'm currently learning:
-- Advanced C++
-- Python
-- Data Science
-- Machine Learning
+- **Advanced C++**
+- **Python**
+- **Data Science**
+- **Machine Learning**
 
 ## 💻 My Projects:
 All of my projects are available at [Kaggle](https://www.kaggle.com/naderelakany).
