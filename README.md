@@ -1,11 +1,6 @@
 # Hi 👋, I'm Nader Mohamed!
 ## I'm an AI student at Kafrelsheikh University, IEEE member, competitive programmer, and problem-solver with a passion for Machine Learning and Data Science.
-
-[![](https://visitcount.itsvg.in/api?id=Nadercr7&icon=0&color=6)](https://visitcount.itsvg.in)
-
-![](https://github-profile-trophy.vercel.app/?username=Nadercr7&theme=swift&no-frame=false&no-bg=false&margin-w=4)
-
-## Hello, Nice to Meet You !! [🔝](#--gifs-for-readme--)
+## Nice to Meet You !! [🔝](#--gifs-for-readme--)
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -31,6 +26,10 @@
 ```
 
 <br><br>     
+
+[![](https://visitcount.itsvg.in/api?id=Nadercr7&icon=0&color=6)](https://visitcount.itsvg.in)
+
+![](https://github-profile-trophy.vercel.app/?username=Nadercr7&theme=swift&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🌱 I'm currently learning:
