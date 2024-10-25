@@ -1,5 +1,6 @@
 # Hi 👋, I'm Nader Mohamed!
 <img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+
 ## I'm an AI student at Kafrelsheikh University, IEEE member, competitive programmer, and problem-solver with a passion for Machine Learning and Data Science.
 
 
