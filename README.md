@@ -3,7 +3,7 @@
 
 ## 🎓 AI Student | 💡 Problem Solver | 💻 Competitive Programmer | 📊 Aspiring Data Scientist
 
-I’m a second-year Artificial Intelligence student at **Kafrelsheikh University** with a passion for building intelligent systems and solving real-world problems. I specialize in **C++**, **Python**, and **Machine Learning**, and I thrive in competitive programming, data analysis, and creative tech projects.
+I’m a third-year Artificial Intelligence student at **Kafrelsheikh University** with a passion for building intelligent systems and solving real-world problems. I specialize in **C++**, **Python**, and **Machine Learning**, and I thrive in competitive programming, data analysis, and creative tech projects.
 
 I'm always eager to learn, grow, and contribute to impactful tech communities and initiatives.
 
